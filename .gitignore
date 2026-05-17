@@ -1,0 +1,10 @@
+.DS_Store
+
+FETCH_HEAD
+
+__pycache__/
+*.pyc
+
+venv/
+
+*.log
